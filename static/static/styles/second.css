@@ -1,0 +1,27 @@
+h3 {
+    color: black;
+}
+
+li {
+    color: blue;
+}
+
+.socialsharingsection {
+    display: flex;
+    flex-wrap: wrap;
+    color: #0000ff;
+    list-style: none;
+    
+}
+
+.authorinfosection {
+    padding-top:60% ;
+    margin: auto;
+    display: center;
+    display: flex;
+}
+
+.resize{
+    width: 70px;
+    height:70px;
+}

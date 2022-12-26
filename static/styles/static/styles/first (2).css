@@ -1,0 +1,25 @@
+h2{
+    color:#DD3131;
+   }
+   
+   ul{
+    color:#501212; 
+    list-style:none;
+    display:flex
+   }
+   
+   p{
+   color:#2A77AA;
+   }
+   
+   .footer{
+       color:orange;
+   }
+   
+   .firtstcard {
+       color:#DD3131;
+   }
+   
+   .secondcard {
+       color:#0000ff;
+   }
