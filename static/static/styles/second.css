@@ -1,27 +1,29 @@
+.firtstcard {
+    color: #dd3131;
+}
+
+.secondcard {
+    color: #0000ff;
+}
+
+.thirdcard {
+    color: chartreuse;
+}
+
+a {
+    text-decoration: none;
+}
 h3 {
+    color:green;
+}
+
+h2 {
     color: black;
 }
+.grid-3-columns {
+    margin: 5rem auto;
+    width: min(90%, 75rem);
+    display: grid;
+    grid-template-columns: 33% 33% 33%;}
+   
 
-li {
-    color: blue;
-}
-
-.socialsharingsection {
-    display: flex;
-    flex-wrap: wrap;
-    color: #0000ff;
-    list-style: none;
-    
-}
-
-.authorinfosection {
-    padding-top:60% ;
-    margin: auto;
-    display: center;
-    display: flex;
-}
-
-.resize{
-    width: 70px;
-    height:70px;
-}

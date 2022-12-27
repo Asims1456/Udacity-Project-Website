@@ -1,0 +1,36 @@
+
+.socialsharingsection {
+    display: flex;
+    color: #0000ff;
+    list-style: none;
+
+}
+
+.authorinfosection {
+    padding-top: 20;
+    margin: 0;
+    padding-top: 40%;
+    display: ;
+    display: grid;
+    column-gap: 0%;
+}
+
+.flex-container {
+    background-color: #501212;
+    margin: 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+img.resize {
+    height:50px;
+    width:50px;
+}
+
+
+
+img{
+    width: 100%;
+}
+
+@media screen and (max-width:640px)

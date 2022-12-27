@@ -1,47 +1,60 @@
-h2{
-    color:#DD3131;
-   }
-   
-   ul{
-    color:#501212; 
-    list-style:none;
-    display:flex
-   }
-   
-   p{
-   color:#2A77AA;
-   }
-   
-   .footer{
-       color:orange;
-   }
-   
-   .firtstcard {
-       color:#DD3131;
-   }
-   
-   .secondcard {
-       color:#0000ff;
-   }
+h2 {
+    color: #DD3131;
 
-   h3{
-    color:red;
 }
-li{
-    color:red;
+
+.grid-3-columns {
+    margin: 5rem auto;
+    width: min(90%, 75rem);
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
 }
+
+ul {
+    color: #501212;
+    list-style: none;
+    display: column;
+}
+
+p {
+    color: blue;
+}
+
+.footer {
+    display:flexbox
+}
+
+.firtstcard {
+    color: #DD3131;
+}
+
+.secondcard {
+    color: #0000ff;
+}
+
+h3 {
+    color: red;
+}
+
+li {
+    color: red;
+}
+
 .socialsharingsection {
-    display:block;
+    display: block;
     padding-top: 20%;
     margin: 0;
     list-style: none;
 }
+
 .authorinfosection {
-    display:flex;
+    display: flex;
 }
+
 img {
-width: 90%;
+    width: 90%;
 }
+
 .avatar {
-width: 90%;
+    width: 90%;
 }

@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: #dd3131;
+}
+
+h3 {
+    text-align: center;
+}
+
+li {
+    padding: 5%;
+    display: grid;
+    color: blue;
+}
+
+ul {
+    color: #501212;
+    list-style: none;
+    display: flex;
+}
+
+.footer {padding-top: 20;
+    margin: 0;
+    padding-top: 40%;
+    display: ;
+    display: grid;
+    column-gap: 0%;
+   
+}

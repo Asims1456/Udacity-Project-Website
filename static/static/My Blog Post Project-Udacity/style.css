@@ -1,0 +1,93 @@
+h1 {
+    text-align: center;
+    color: #dd3131;
+}
+
+h3 {
+    text-align: center;
+}
+
+li {
+    padding: 5%;
+    display: grid;
+    color: blue;
+}
+
+ul {
+    color: #501212;
+    list-style: none;
+    display: flex;
+}
+
+.footer {padding-top: 20;
+    margin: 0;
+    padding-top: 40%;
+    display: ;
+    display: grid;
+    column-gap: 0%;
+   
+}
+
+.firtstcard {
+    color: #dd3131;
+}
+
+.secondcard {
+    color: #0000ff;
+}
+
+.thirdcard {
+    color: chartreuse;
+}
+
+a {
+    text-decoration: none;
+}
+h3 {
+    color:green;
+}
+
+h2 {
+    color: black;
+}
+.grid-3-columns {
+    margin: 5rem auto;
+    width: min(90%, 75rem);
+    display: grid;
+    grid-template-columns: 33% 33% 33%;}
+
+.socialsharingsection {
+    display: flex;
+    color: #0000ff;
+    list-style: none;
+
+}
+
+.authorinfosection {
+    padding-top: 20;
+    margin: 0;
+    padding-top: 40%;
+    display: ;
+    display: grid;
+    column-gap: 0%;
+}
+
+.flex-container {
+    background-color: #501212;
+    margin: 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+img.resize {
+    height:50px;
+    width:50px;
+}
+
+
+
+img{
+    width: 100%;
+}
+
+@media screen and (max-width:640px)
